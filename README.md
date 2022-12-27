@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on Geomatics x Cryosphere
+- 🔭 I’m currently working on Geomatics x Cryosphere X Data science
 - 🌱 I’m currently learning telemarking skiing, Norsk, a now language (Go or Javascript ? TBC)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
