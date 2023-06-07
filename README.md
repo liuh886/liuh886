@@ -2,7 +2,7 @@
 
 I am a highly skilled ~~full-stack~~ geodata professional in geodata acquisition and processing. 
 
-My acquisition expertise includes `offshore` data acquisition using `seismic`, `sidescan sonar`, `acoustic positioning (LBL & USBL)`, and `multibeam sonar` techniques, as well as `onshore` data acquisition using `GNSS`, `total station`, `laser scanning`, and `ERT`. Additionally, I have experience in `remote sensing` using drone `LiDAR` and `photogrammetry`, as well as `satellite data`. 
+My acquisition expertise includes `offshore` data acquisition using `seismic`, `sidescan sonar`, `acoustic positioning (LBL & USBL)` techniques, to `onshore` data acquisition using `GNSS`, `total station`, `laser scanning`, `remote sensing`...
 
 My processing skills also include data `QC`, `geostatistics`, `modeling`, and `visualization`. I am also proficient in coding and have experience in building data processing pipelines for researches and industry productions.
 
