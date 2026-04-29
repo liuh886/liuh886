@@ -1,4 +1,4 @@
 # 🏗️ Zhihao
 
-I build **Agentic Infrastructure** for a Net Zero world
+I build **Agentic Engineer** for a Net Zero world
 
